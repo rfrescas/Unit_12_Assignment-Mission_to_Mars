@@ -1,4 +1,19 @@
 h3,
 h2 {
     color: #006778;
+    text-decoration: underline;
+}
+
+.border {
+    border-style: solid;
+    border-width: 2px;
+}
+
+.container-fluid {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.hemispheres {
+    text-align: center;
 }
